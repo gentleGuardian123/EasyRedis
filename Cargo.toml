@@ -13,3 +13,7 @@ bytes = "1"
 [[examples]]
 name = "hello-redis"
 path = "examples/hello-redis.rs"
+
+[[examples]]
+name = "sync-read"
+path = "examples/sync-read.rs"
